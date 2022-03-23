@@ -1,0 +1,34 @@
+1	a	ungerundet	vorne	vokal	offen
+2	b	stimmhaft	bilabial	plosiv	unlabialisiert	unaspiriert
+3	d	stimmhaft	alveolar	plosiv	unlabialisiert	unaspiriert
+4	e	ungerundet	vorne	vokal	halbgeschlossen
+5	ɡ	stimmhaft	velar	plosiv	unlabialisiert	unaspiriert
+6	i	ungerundet	vorne	vokal	geschlossen
+7	k	stimmlos	velar	plosiv	unlabialisiert	unaspiriert
+8	l	stimmhaft	lateral	alveolar	unlabialisiert	unaspiriert
+10	m	stimmhaft	bilabial	nasal	unlabialisiert	unaspiriert
+12	n	stimmhaft	alveolar	nasal	unlabialisiert	unaspiriert
+14	o	gerundet	halbgeschlossen	hinten	vokal
+15	p	stimmlos	bilabial	plosiv	unlabialisiert	unaspiriert
+17	r	stimmhaft	alveolar	vibrant	unlabialisiert	unaspiriert
+18	s	stimmlos	alveolar	frikativ	unlabialisiert	unaspiriert
+19	t	stimmlos	alveolar	plosiv	unlabialisiert	unaspiriert
+20	u	gerundet	hinten	vokal	geschlossen
+21	y	stimmhaft	palatal	halbvokal	unlabialisiert	unaspiriert
+23	w	stimmhaft	velar	halbvokal	labialisiert	unaspiriert
+24	bʰ	stimmhaft	bilabial	plosiv	aspiriert	unlabialisiert
+25	g	stimmhaft	velar	plosiv	unlabialisiert	unaspiriert
+26	dʰ	stimmhaft	alveolar	plosiv	aspiriert	unlabialisiert
+28	gᵂ	stimmhaft	velar	plosiv	labialisiert	unaspiriert
+30	ģʰ	stimmhaft	palatal	plosiv	aspiriert	unlabialisiert
+33	gʰ	stimmhaft	velar	plosiv	aspiriert	unlabialisiert
+34	ģ	stimmhaft	palatal	plosiv	unlabialisiert	unaspiriert
+36	ḱ	stimmlos	palatal	plosiv	unlabialisiert	unaspiriert
+37	kᵂ	stimmlos	velar	plosiv	aspiriert	unlabialisiert
+38	gᵂʰ	stimmhaft	velar	plosiv	aspiriert	labialisiert
+42	ḱʰ	stimmlos	palatal	plosiv	aspiriert	unlabialisiert
+43	tʰ	stimmlos	alveolar	plosiv	aspiriert	unlabialisiert
+44	pʰ	stimmlos	bilabial	plosiv	aspiriert	unlabialisiert
+29	h1	stimmlos	frikativ	glottal	unaspiriert	unlabialisiert
+27	h2	stimmlos	frikativ	velar	unaspiriert	unlabialisiert
+31	h3	stimmhaft	frikativ	velar	unaspiriert	labialisiert

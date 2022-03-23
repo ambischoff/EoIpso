@@ -1,0 +1,46 @@
+1	ɐ	fast-offen	zentral	vokal	oral	unbetont	kurz	ungerundet
+2	a	ungerundet	offen	vorne	vokal	oral	betont	kurz
+3	a:	ungerundet	offen	vorne	vokal	oral	betont	lang
+4	a~	ungerundet	offen	vorne	nasalisiert	vokal	betont	lang
+5	aɪ	fallend	nach_vorne	peripher	diphthong	vokal	oral	betont
+6	aʊ	fallend	nach_hinten	peripher	diphthong	vokal	oral	betont
+7	b	stimmhaft	bilabial	plosiv	konsonant
+8	ç	stimmlos	palatal	frikativ	konsonant
+9	ɔ	gerundet	halboffen	hinten	vokal	oral	betont	kurz
+10	ɔʏ	fallend	nach_vorne	nicht_peripher	diphthong	vokal	oral	betont
+11	d	stimmhaft	alveolar	plosiv	konsonant
+12	dʒ	stimmhaft	postalveolar	affrikate	konsonant
+13	ʒ	stimmhaft	postalveolar	frikativ	konsonant
+14	ə	mittel	zentral	vokal	oral	unbetont	ungerundet	kurz
+15	e:	ungerundet	halbgeschlossen	vorne	vokal	oral	lang	betont
+16	ɛ	ungerundet	halboffen	vorne	vokal	oral	betont	kurz
+17	ɛ:	ungerundet	halboffen	vorne	vokal	oral	lang	betont
+18	f	stimmlos	labiodental	frikativ	konsonant
+19	g	stimmhaft	velar	plosiv	konsonant
+20	h	stimmlos	glottal	frikativ	konsonant
+21	ɪ	ungerundet	zentralisiert	fast-geschlossen	vorne	vokal	oral	betont	kurz
+22	i:	ungerundet	geschlossen	vorne	vokal	oral	lang	betont
+23	j	stimmhaft	palatal	approximant	konsonant
+24	k	stimmlos	velar	plosiv	konsonant
+25	l	stimmhaft	lateral	alveolar	konsonant
+26	m	stimmhaft	bilabial	nasal	konsonant
+27	n	stimmhaft	alveolar	nasal	konsonant
+28	ŋ	stimmhaft	velar	nasal	konsonant
+29	o:	gerundet	halbgeschlossen	hinten	vokal	oral	lang	betont
+30	ø:	gerundet	halbgeschlossen	vorne	vokal	oral	lang	betont
+31	œ	gerundet	halboffen	vorne	vokal	oral	betont	kurz
+32	p	stimmlos	bilabial	plosiv	konsonant
+33	pf	stimmlos	bilabial	affrikate	konsonant
+34	r	stimmhaft	alveolar	vibrant	konsonant
+35	s	stimmlos	alveolar	frikativ	konsonant
+36	ʃ	stimmlos	postalveolar	frikativ	konsonant
+37	t	stimmlos	alveolar	plosiv	konsonant
+38	ts	stimmlos	alveolar	affrikate	konsonant
+39	tʃ	stimmlos	postalveolar	affrikate	konsonant
+40	ʊ	gerundet	zentralisiert	fast-geschlossen	hinten	betont	vokal	oral	kurz
+41	u:	gerundet	geschlossen	hinten	lang	betont	vokal	oral
+42	v	stimmhaft	labiodental	frikativ	konsonant
+43	x	stimmlos	velar	frikativ	konsonant
+44	ʏ	gerundet	zentralisiert	fast-geschlossen	vorne	vokal	oral	betont	kurz
+45	y:	gerundet	geschlossen	vorne	vokal	oral	lang	betont
+46	z	stimmhaft	alveolar	frikativ	konsonant

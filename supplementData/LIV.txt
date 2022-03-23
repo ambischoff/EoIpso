@@ -1,0 +1,1170 @@
+*bʰag-	'als Anteil bekommen'	IEW 107
+*bʰedʰḫ-	'stechen, graben'	IEW 113-4
+*bʰeg-	'brechen (tr.)'	IEW 114-5
+*bʰegᵂ-	'davonlaufen, fliehen'	IEW 116
+*?bʰeħ-	'wärmen'	IEW 113
+*bʰeħdʰ-	'bedrängen'	IEW 114
+*bʰeħģʰ-	'ärgerlich werden, in Streit geraten'	IEW 115
+*bʰeḫ-	'glänzen, leuchten, scheinen'	IEW 104-5
+*bʰeḫ-	'sprechen, sagen'	IEW 105-6
+*bʰeḥg-	'braten, rösten'	IEW 113
+*bʰeyd-	'spalten'	IEW 116-7
+*bʰeydʰ-	'sich anvertrauen, Vertrauen fassen'	IEW 117
+*bʰeyH-	'schlagen'	IEW 117-8
+*bʰeyḫ-	'in Furcht geraten'	IEW 161-2
+*?bʰeld-	'klopfen'	IEW 124
+*bʰelģʰ-	'schwellen'	IEW 125-6
+*?bʰelH-	'tönen, dröhnen'	IEW 123-4
+*?bʰelk-	'stützen'	IEW 122-3
+*?bʰen-	'krank werden'	IEW 126
+*?bʰend-	'glücklich sein, sich freuen'	IEW 126-7
+*bʰendʰ-	'binden'	IEW 127
+*bʰenģʰ-	'dicht/fest machen'	IEW 127-8
+*bʰer-	'tragen, bringen'	IEW 128-32
+*?bʰerdʰ-	'erbeuten, einnehmen'	IEW 138
+*bʰerģʰ-	'hoch werden, sich erheben'	IEW 140-1
+*?bʰergʰ-	'beachten, bewahren'	IEW 145
+*bʰerH-	'mit scharfem Werkzeug bearbeiten'	IEW 133-5
+*bʰerḫ-	'sich schnell bewegen'	IEW 132-3
+*bʰerw-	'sieden, wallen'	IEW 143-5
+*?bʰes-	'(zer)kauen'	IEW 145-6
+*?bʰewd-	'schlagen'	IEW 112
+*bʰewdʰ-	'wach werden, aufmerksam werden'	IEW 150-2
+*bʰewg-	'entfliehen, freikommen'	IEW 152
+*bʰewg-	'jmdm. nützen, Nutzen bringen'	IEW 153
+*bʰewgʰ-	'sich biegen'	IEW 152-3
+*?bʰled-	'sprudeln'	IEW 155
+*bʰle(ģ)-	'glänzen'	IEW 124-5
+*bʰleħ-	'heulen'	IEW 121-2; 154-5
+*?bʰleḫg-	'schlagen'	IEW 154
+*bʰleḥ-	'blühen'	IEW 122
+*?bʰleyd-	'aufschwellen, überfließen'	IEW 156
+*bʰleyģ-	'schlagen'	IEW 160-1
+*?bʰleyg-	'glänzen'	IEW 156-7
+*?bʰlendʰ-	'trübe werden'	IEW 157-8
+*?bʰlewdḫ-	'zerfließen'	IEW 159
+*bʰlewH-	'überströmen'	IEW 158-9
+*bʰlewH-	'schlagen'	IEW 125
+*?bʰlewk-	'blaß werden'	IEW 159
+*?bʰredʰ-	'waten'	IEW 164
+*bʰre(ģ)-	'brechen (intr.)'	IEW 165
+*bʰreħģ-	'erstrahlen, erglänzen'	IEW 139-40
+*?bʰreyHk-	'sich sträuben, sich aufstellen'	IEW 166
+*?bʰReḱ-	'schärfen'	IEW 168
+*bʰrem-	'brummen, brüllen'	IEW 142-3
+*bʰremH-	'unstet sein'	IEW 132-3
+*?bʰrend-	'quellen, schwellen'	IEW 167-8
+*?bʰRenḱ-	'abfallen'	IEW 168
+*?bʰrenk-	'anschwellen'	IEW 167
+*bʰrewH-	'sprudeln'	IEW 144-5
+*bʰrewH-	'aufbrechen'	IEW 169
+*?bʰrewH(ģ)-	'genießen, gebrauchen'	IEW 173
+*?bʰrewḱ-	'abschaben'	IEW 170
+*?bʰrewk-	'streichen, streifen'	IEW 170
+*bʰrews-	'zerbrechen'	IEW 171
+*?bʰseH-	'kauen'	IEW 145
+*bʰweḫ-	'wachsen, entstehen, werden'	IEW 146-50
+*?deH-	'mähen'	IEW 175
+*deħ-	'aufspüren, (an)treffen'	IEW 217
+*deḫ(y)-	'teilen'	IEW 175-6
+*deḫp-	'zerteilen'	IEW 176-7
+*deḫw-	'in Brand geraten'	IEW 179-81
+*deḥ-	'geben'	IEW 223-5
+*?deḥw-	'geben'	IEW 218, 225-6
+*deyħ-	'dahinjagen'	IEW 187
+*deyḫ-	'aufleuchten'	IEW 183-4
+*deyḱ-	'zeigen, weisen'	IEW 188-9
+*deyḱ-	'werfen'	IEW –
+*deḱ-	'annehmen, aufnehmen, nehmen, wahrnehmen'	IEW 189-90
+*deḱs-	'taugen, tüchtig sein'	IEW 189
+*?dek(ᵂ)s-	'zeigen'	IEW 189
+*delģʰ-	'fest werden'	IEW 197, 254
+*delgʰ-	'spalten, behauen'	IEW 196
+*delħ-	'behauen, spalten'	IEW 194-6
+*demḫ-	'(zusammen)fügen, bauen'	IEW 198-9
+*demḫ-	'zähmen, bändigen, gefügig machen'	IEW 199-200
+*denḱ-	'beißen'	IEW 201
+*dens-	'kundig werden, kunstfertig werden'	IEW 201-2
+*der-	'zerreißen (intr.), zerspringen'	IEW 206-8
+*?derbʰ-	'(Grasbüschel) zusammenbinden, flechten'	IEW 211-2, 257
+*?derdʰ-	'(ein)schlafen'	IEW 226
+*?derHgʰ-	'ziehen, zerren'	IEW 210
+*derḱ-	'hinblicken, erblicken'	IEW 213
+*des-	'finden, antreffen'	IEW 217
+*dewḫ-	'zusammenfügen'	IEW 218
+*dewk-	'ziehen'	IEW 220-1
+*?dews-	'bedürfen, ermangeln'	IEW 219
+*?dyewt-	'aufblitzen, aufleuchten'	IEW 185
+*?dreģʰ-	'betrüben'	IEW 226-7
+*dregʰ-	'festhalten'	IEW 213, 254
+*?dreħ-	'schlafen'	IEW 226
+*dreḫ-	'(weg)laufen'	IEW 204
+*dreḫ-	'tun'	IEW 212
+*drem-	'(wohin) laufen'	IEW 204-5
+*drem-	'schlafen'	IEW 226
+*drep-	'abschneiden, (ab)reißen'	IEW 211
+*drew-	'laufen'	IEW 205-6
+*?drewH-	'niederschneiden'	IEW 208
+*dweH-	'(ein)tauchen (intr.)'	IEW 217-8
+*dwey-	'in Furcht geraten, erschrecken'	IEW 227-8
+*?dweys-	'hassen, anfeinden'	IEW 228
+*?dwer-	'laufen'	IEW –
+*dʰalħ-	'herausquellen, hervorsprießen'	IEW 234
+*dʰebʰ-	'vermindern'	IEW 240
+*dʰegᵂʰ-	'mit Feuer behandeln, verbrennen (tr.)'	IEW 240-1
+*dʰegᵂʰḫ-	'in die Nähe kommen, fast erreichen, vorbeigehen'	IEW 250
+*dʰeHbʰ-	'passen'	IEW 233
+*dʰeħ-	'stellen, legen, setzen; herstellen, machen'	IEW 235-9
+*dʰeħ(y)-	'(Muttermilch) saugen'	IEW 241-2
+*?dʰeħk-	'machen, herstellen'	IEW 236
+*?dʰeḫ(ģ)-	'schärfen, wetzen'	IEW –
+*dʰeyģʰ-	'bestreichen, kneten'	IEW 244-5
+*dʰeyH-	'ins Auge fassen'	IEW 243
+*dʰeyHgᵂ-	'hineinstecken, stechen'	IEW 243-4
+*dʰelbʰ-	'graben, aushöhlen'	IEW 246
+*dʰembʰ-	'erstaunen (intr.), in Erstaunen geraten'	IEW 233
+*dʰembʰ-	'(brand)bestatten'	IEW 248-9
+*dʰembʰ-	'(zer)schlagen (?)'	IEW 240
+*dʰenḫ-	'sich in Lauf setzen, sich davonmachen'	IEW 249
+*dʰer-	'befestigen, fixieren'	IEW 252-3
+*dʰerģʰ-	'(sich) wenden'	IEW 258
+*dʰerḥ-	'springen, bespringen'	IEW 256
+*dʰers-	'Mut fassen'	IEW 259
+*dʰew-	'laufen, eilen'	IEW 259-60, 262
+*?dʰewdʰ-	'erschüttern'	IEW 264-5
+*dʰewgʰ-	'treffen'	IEW 271
+*dʰewH-	'rasch hin und her bewegen, schütteln'	IEW 261-3
+*dʰgᵂʰey-	'(durch Hitze) hinschwinden, zugrunde gehen'	IEW 487
+*dʰmeH-	'blasen'	IEW 247-8
+*?dʰreb-	'stoßen, treffen'	IEW 272-3
+*dʰrebʰ-	'sich ausscheiden, sich niederschlagen, gerinnen'	IEW 257
+*dʰre(ģ)ʰ-	'schleppen, ziehen'	IEW 257, 273
+*dʰreḫgʰ-	'aufgewühlt werden, in Aufruhr geraten'	IEW 251, 273
+*?dʰreybʰ-	'treiben'	IEW 274
+*?dʰreyd-	'scheißen'	IEW 256
+*dʰrew-	'laut rufen, verkünden'	IEW 255
+*dʰrew-	'irreführen'	IEW 277
+*?dʰrewb-	'tropfen'	IEW 275
+*dʰrewbʰ-	'zerbrechen, zerbröckeln'	IEW 275
+*dʰrewgʰ-	'trügen, täuschen'	IEW 276
+*dʰrewgʰ-	'Gefolgschaft leisten'	IEW 255
+*?dʰrews-	'fallen, herabfallen'	IEW 274-5
+*dʰweḫ-	'Rauch machen'	IEW 262-3
+*dʰwen-	'tönen'	IEW 277
+*dʰwenH-	'qualmen, rauchen'	IEW 266
+*dʰwens-	'zerstieben, zerbröckeln'	IEW 268-9
+*?dʰwer-	'beschädigen, verletzen'	IEW 277
+*dʰwes-	'einatmen, ausatmen, atmen'	IEW 268-71
+*ģar-	'tönen, rufen'	IEW 352
+*?ģebʰ-	'essen, kauen'	IEW 382
+*ģeyH-	'aufbrechen, keimen'	IEW 355-6
+*ģelḫ-	'in Lachen ausbrechen'	IEW 366
+*ģembʰ-	'schnappen, (zer)beißen'	IEW 369
+*ģenħ-	'erzeugen'	IEW 373-5
+*ģerḫ-	'aufreiben, alt machen'	IEW 390-1
+*?ģewH-	'sich in schnelle Bewegung setzen'	IEW 399
+*ģews-	'kosten'	IEW 399-400
+*?ģyeH-	'berauben'	IEW 469
+*ģyewH-	'kauen'	IEW 400
+*ģneḥ-	'erkennen'	IEW 376-8
+*?ģrey-	'sich erstrecken'	IEW 401
+*?ģ(ʰ)welg(ᵂ)ʰ-	'anblicken'	IEW 490
+*ģwelH-	'brennen, flammen'	IEW 479
+*ģʰed-	'scheißen'	IEW 423
+*?ģʰeH-	'die Körperstellung verändern, sich bewegen'	IEW 418
+*ģʰeħ-	'zurücklassen'	IEW 418-9
+*ģʰeħy-	'den Mund aufsperren, gähnen'	IEW 419-20
+*?ģʰey-	'antreiben'	IEW 424-5
+*ģʰeys-	'erschrecken'	IEW 425, 427
+*ģʰeysd-	'jmdn. (er)schrecken'	IEW 427
+*ģʰengʰ-	'schreiten'	IEW 438-9
+*ģʰer-	'Gefallen finden, begehren'	IEW 440-1
+*ģʰer-	'nehmen, holen'	IEW 442
+*ģʰer-	'strahlen, scheinen; sehen'	IEW 441-2
+*?ģʰeRH-	'zürnen'	IEW –
+*ģʰers-	'sich sträuben, erstarren'	IEW 445-6
+*ģʰew-	'gießen'	IEW 447-8
+*?ģʰewd-	'gießen'	IEW 448
+*?ģʰnew-	'sich schämen'	IEW –
+*?ģʰreyH-	'den Mund verziehen, verlegen sein'	IEW –
+*ģʰweH-	'rufen'	IEW 413
+*ģʰwen-	'tönen'	IEW 490-1
+*ģʰwer-	'krumm gehen'	IEW 489
+*g(ᵂ)eģʰ-	'(ins Wasser) eindringen, hineinwaten'	IEW 465
+*g(ᵂ)eH(y)-	'singen'	IEW 355
+*(ģ)eḫdʰ-	'in Freude geraten'	IEW 353
+*(ģ)eḫw-	'sich freuen'	IEW 353
+*(ģ)eys-	'sich drehen, sich wenden'	IEW 355
+*(ģ)el-	'frieren, kalt sein'	IEW 365-6
+*g(ᵂ)eldʰ-	'gierig werden, hungrig werden'	IEW 434
+*gelH-	'Macht bekommen über'	IEW 351
+*gem-	'drücken, zusammenpressen; fassen'	IEW 368-9
+*gerbʰ-	'einritzen, einkerben'	IEW 392, 478
+*g(ᵂ)erdʰ-	'hören; tönen'	IEW 478
+*?g(ᵂ)eRģʰ-	'klagen'	IEW 350-1
+*?g(ᵂ)ew-	'vermehren'	IEW 403-4
+*?g(ᵂ)ewbʰ-	'biegen'	IEW 450
+*?g(ᵂ)ewH-	'erlangen'	IEW 403-4
+*gewḫ-	'rufen'	IEW 403
+*?gleybʰ-	'kleben bleiben'	IEW 363
+*gleyH-	'bestreichen; kleben bleiben'	IEW 362-3
+*(ģ)lewbʰ-	'ausschneiden, spalten'	IEW 401-2
+*?gnet-	'drücken, kneten'	IEW 371
+*?grenģʰ-	'drehen'	IEW 386
+*?g(ᵂ)rentḫ-	'knüpfen'	IEW 386
+*gres-	'fressen, verschlingen'	IEW 404
+*gwel-	'verschlingen, schlucken'	IEW 365
+*gwel-	'sich legen'	IEW 402
+*(ģ)ʰan-	'gähnen, klaffend öffnen'	IEW 411
+*gʰebʰ-	'fassen, nehmen; geben'	IEW 407-9
+*gʰed-	'fassen'	IEW 437-8
+*?gʰedʰ-	'(zusammen)treffen, sich vereinigen'	IEW 423-4
+*?(ģ)ʰeHb-	'ergreifen, nehmen'	IEW 407-9
+*gʰeħ-	'kommen, erreichen'	IEW 418-9, 1109
+*?gʰeydʰ-	'wünschen, erwarten'	IEW 426-7
+*?(ģ)ʰey(ģ)ʰ-	'lechzen'	IEW 427
+*?gʰeldʰ-	'entgelten, büßen'	IEW 436
+*gʰerdʰ-	'umschließen, umgürten'	IEW 444
+*?g(ᵂ)ʰers-	'sich (er)freuen'	IEW 445-6
+*g(ᵂ)ʰes-	'essen, fressen, verzehren'	IEW 452
+*g(ᵂ)ʰes-	'lachen'	IEW –
+*?g(ᵂ)ʰewģʰ-	'verbergen'	IEW 450
+*?g(ᵂ)ʰews-	'(Geräusche) hören'	IEW 454
+*gʰlendʰ-	'blicken, schauen; glänzen'	IEW 431
+*gʰrebḫ-	'ergreifen'	IEW 455
+*?gʰrebʰ-	'graben'	IEW 455-6
+*?(ģ)ʰreħd-	'weinen'	IEW 439
+*gʰreħw-	'stürzen, losstürzen'	IEW 460
+*gʰrey-	'bestreichen, salben'	IEW 457
+*?gʰreybʰ-	'greifen'	IEW 457-8
+*?gʰreydʰ-	'schreiten'	IEW 456-7
+*gʰrem-	'dröhnen, wüten'	IEW 458-9
+*g(ᵂ)ʰrend-	'(zer)reiben'	IEW 459
+*gᵂeḫ-	'den Fuß aufsetzen, treten'	IEW 463-4
+*gᵂeḫbʰ-	'niederdrücken'	IEW 465-6
+*gᵂeḫdʰ-	'eintauchen'	IEW 465
+*gᵂey-	'(be)siegen, gewinnen'	IEW 469
+*gᵂelH-	'quälen, stechen'	IEW 470-1
+*gᵂelH-	'träufeln, quellen'	IEW 471-2
+*gᵂelħ-	'treffen, werfen'	IEW 471-2
+*?gᵂelḥ-	'wünschen, wollen'	IEW 472
+*gᵂem-	'(wohin) gehen, kommen'	IEW 464-5
+*gᵂerH-	'Zustimmung bekunden'	IEW 478
+*gᵂerḥ-	'verschlingen'	IEW 474
+*?gᵂet-	'sagen'	IEW 480-1
+*gᵂģʰer-	'im Wasser dahintreiben, fließen'	IEW 487-8
+*gᵂyeḥ-	'leben'	IEW 467-9
+*?gᵂrem-	'brausen, tosen'	IEW 143, 383
+*gᵂʰedʰ-	'bitten, wünschen'	IEW 488
+*?gᵂʰel-	'verzehren, grasen'	IEW 365
+*gᵂʰen-	'schlagen'	IEW 491-3
+*gᵂʰer-	'warm werden'	IEW 493-5
+*gᵂʰreħ-	'etw. riechen'	IEW 495-6
+*Hedʰ-	'sagen'	IEW 201
+*Heyģʰ-	'begehren'	IEW 14-5
+*Heyg-	'sich (heftig?) bewegen'	IEW 13-4
+*Heyḱ-	'sich aneignen'	IEW 298-9
+*Herd-	'ins Schwanken geraten'	IEW 329-30, 334
+*Hers-	'stoßen'	IEW 335
+*?Hew-	'weben'	IEW 75
+*Hyaģ-	'verehren'	IEW 501
+*Hyeħ-	'werfen'	IEW 502
+*Hyewdʰ-	'in Bewegung geraten (ohne Ortsveränderung)'	IEW 511-2
+*Hmelḱ-	'streichen, berühren'	IEW 724
+*Hnedʰ-	'binden'	IEW 758
+*Hwer-	'einschließen, stecken, hineintun'	IEW 1150, 1160
+*?HweRdʰ-	'groß/stark werden'	IEW 1167
+*ħay-	'geben; nehmen'	IEW 10-1
+*ħay-	'warm sein'	IEW 11, 68
+*ħed-	'beißen, essen'	IEW 287-9
+*?ħe(ģ)H-	'(er)mangeln'	IEW 290
+*ħegᵂʰ-	'trinken'	IEW 23
+*ħeħs-	'sitzen'	IEW 342-3
+*ħey-	'gehen'	IEW 293-6
+*ħeysḫ-	'kräftigen; antreiben'	IEW 299-301
+*?ħe(ḱ)-	'sterben'	IEW –
+*?ħelḫ-	'wohin treiben'	IEW 306-7
+*?ħelk-	'leiden, sich schlecht fühlen'	IEW 307
+*ħem-	'nehmen'	IEW 310-1
+*ħep-	'fassen, ergreifen'	IEW 50-1
+*ħer-	'wohin gelangen, geraten'	IEW 326-9
+*ħerģʰ-	'besteigen'	IEW 328
+*ħerH-	'waschen'	IEW 337
+*?ħerḫ-	'lieben'	IEW –
+*?ħerk-	'zerschneiden'	IEW –
+*ħerkᵂ-	'strahlen, singen'	IEW 340
+*ħers-	'fließen'	IEW 336-7
+*ħes-	'dasein, sein'	IEW 340-1
+*ħes-	'werfen, schießen'	IEW –
+*ħew-	'sehen, erblicken'	IEW 78
+*ħewH-	'helfen, fördern'	IEW 77-8
+*ħewk-	'sich gewöhnen (an), lernen'	IEW 347
+*ħews-	'verbrennen, sengen'	IEW 347-8
+*ħger-	'erwachen'	IEW 390
+*?ħgᵂʰel-	'wünschen'	IEW 489
+*ħleyģ-	'ins Zittern/Beben geraten'	IEW 667-8
+*ħlen(ģ)ʰ-	'eidlich versichern'	IEW 676
+*ħlengᵂʰ-	'sich mühelos bewegen'	IEW 660-1
+*ħlewdʰ-	'steigen, wachsen'	IEW 306-7, 684-5
+*ħnedʰ-	'hervorkommen'	IEW 40-1
+*?ħneģʰ-	'stechen, (hinein)stecken'	IEW 760
+*ħneḱ-	'erhalten, nehmen'	IEW 316-8
+*ħreħ-	'fragen'	IEW 337
+*ħreħ-	'rudern'	IEW 338
+*ħrey-	'sich erheben'	IEW 
+*ħrem-	'ruhig werden'	IEW 864
+*ħwegᵂʰ-	'feierlich sprechen'	IEW 348
+*ħweḫ-	'verlassen, aufgeben; ablassen, aufhören'	IEW 345, 915, 1111
+*?ħweld-	'wünschen'	IEW 1137
+*ḫed-	'vertrocknen'	IEW 3, 69
+*ḫedʰ(ģ)ʰ-	'drücken'	IEW –
+*ḫeģ-	'treiben'	IEW 4-5
+*ḫeģ-	'sagen'	IEW 290-1
+*ḫegʰ-	'in Furcht geraten, betrübt werden'	IEW 7-8
+*ḫeħ-	'heiß sein'	IEW –
+*ḫeħs-	'(durch Hitze) vertrocknen'	IEW 68
+*?ḫeḥ-	'glauben, vertrauen'	IEW –
+*ḫeyd-	'schwellen'	IEW 774
+*ḫeydʰ-	'entzünden'	IEW 11-2
+*ḫeyḱ-	'aufspießen'	IEW 15
+*ḫeys-	'suchen'	IEW 16
+*ḫeysd-	'verehren'	IEW 16
+*ḫeḱ-	'scharf sein/werden/machen'	IEW 18-22
+*ḫeḱḥ-	'(auf)essen'	IEW 18
+*ḫel-	'nähren, aufziehen'	IEW 26-7
+*ḫeldʰ-	'glücklich erreichen'	IEW 27
+*?ḫel(ģ)ʰ-	'frieren'	IEW 32
+*ḫelgᵂʰ-	'einbringen (als Erlös)'	IEW 32-3
+*ḫelḫ-	'ziellos gehen'	IEW 27-8
+*ḫelk-	'abwehren'	IEW 32
+*ḫemģʰ-	'(zu)schnüren, beengen'	IEW 42-3
+*ḫemH-	'gießen, begießen'	IEW 35
+*ḫemḥ-	'anfassen, anpacken, schwören'	IEW 778
+*ḫen-	'schöpfen'	IEW 901
+*?ḫendʰ-	'blühen, sprießen'	IEW 40-1
+*ḫengᵂ-	'bestreichen, salben'	IEW 779
+*ḫenħ-	'atmen'	IEW 38-9
+*?ḫenḱ-	'zuteilen'	IEW 45, 318
+*ḫenk-	'biegen'	IEW 45-6
+*ḫens-	'zeugen, gebären'	IEW –
+*?ḫent-	'Gewebe anzetteln, weben'	IEW 322
+*ḫep-	'passen, sich fügen'	IEW 50-51
+*ḫer-	'sich (zusammen)fügen'	IEW 55-8
+*ḫer-	'nehmen, erwerben'	IEW 61
+*ḫer-	'gewichtig/laut sprechen'	IEW 781
+*ḫerH-	'sich auflösen, verschwinden'	IEW 332-3
+*ḫerḥ-	'aufbrechen, pflügen'	IEW 62
+*ḫer(ḱ)-	'halten'	IEW 65-6
+*ḫes-	'satt werden'	IEW –
+*ḫet-	'gehen, wandern'	IEW 69
+*ḫet-	'ein Loch machen, stechen'	IEW –
+*ḫew-	'genießen'	IEW 77-8
+*ḫewg-	'stark werden'	IEW 84-5
+*ḫewH-	'(Fußbekleidung) anziehen'	IEW 346
+*ḫews-	'schöpfen'	IEW 90
+*?ḫ(ģ)er-	'sammeln, (zusammen)holen, nehmen'	IEW 382
+*ḫle(ģ)-	'sich kümmern um'	IEW 658
+*ḫleħ-	'zermahlen'	IEW 28-9
+*ḫleyH-	'beschmieren'	IEW 661
+*ḫleks-	'abwehren, schützen'	IEW 32
+*ḫlew-	'fernhalten'	IEW 27-8
+*ḫmeħ-	'mähen'	IEW 703
+*ḫmeygᵂ-	'wechseln'	IEW 713
+*ḫmelģ-	'melken'	IEW 722-3
+*ḫmerd-	'ein Leid antun, mißhandeln'	IEW 736-7
+*ḫmerģ-	'abstreifen, (ab)wischen'	IEW 738
+*?ḫmert-	'verfehlen'	IEW 970
+*ḫneḥ-	'tadeln'	IEW 779
+*ḫneḱ-	'erreichen'	IEW 316-8
+*ḫreħ(ģ)-	'sich sorgen um, helfen'	IEW 857
+*ḫres-	'sich verweigern'	IEW 62
+*ḫsews-	'trocken werden'	IEW 880-1
+*?ḫsewt-	'aufwallen'	IEW 914-5
+*ḫtew(ģ)-	'Schrecken verbreiten'	IEW 914-5
+*ḫwedH-	'tönen, sprechen'	IEW 76-7
+*ḫweg-	'stechen'	IEW –
+*ḫwe(ģ)ʰ-	'bedeutungsvoll sprechen'	IEW 1136, 348
+*ḫweħ-	'wehen'	IEW 81-4
+*ḫwey-	'laufen'	IEW –
+*?ḫweyd-	'singen'	IEW 77
+*?ḫweys-	'hören'	IEW 78
+*ḫweks-	'(heran)wachsen, groß werden'	IEW 84-5
+*ḫwelk-	'schleppen, ziehen'	IEW 1145
+*ḫwer-	'hängen (intr.)'	IEW 1150
+*ḫwerg-	'sich umdrehen, sich wenden'	IEW 1154, 1168
+*?ḫwerħ-	'besprengen'	IEW 80-1
+*ḫwers-	'regnen'	IEW 80-1
+*ḫwert-	'schwören'	IEW 1162
+*ḫwes-	'(morgens) hell werden'	IEW 86-7
+*ḫwes-	'(ver)weilen, die Nacht verbringen'	IEW 72, 1170-1
+*?ḫwet-	'ziehen, führen'	IEW –
+*ḫwyedʰ-	'verletzend/tödlich treffen'	IEW 1127-8
+*ḥed-	'zu riechen beginnen (intr.)'	IEW 772-3
+*ḥed-	'zu hassen beginnen'	IEW 773
+*?ḥeygʰ-	'(fort) gehen'	IEW 296
+*?ḥeyt-	'mitnehmen'	IEW 295
+*ḥekᵂ-	'ins Auge fassen, erblicken'	IEW 775-7
+*ḥelħ-	'zugrunde gehen'	IEW 777
+*ḥep-	'herstellen'	IEW 780
+*ḥep-	'wünschen, wählen'	IEW 781
+*ḥer-	'sich in (Fort-)Bewegung setzen'	IEW 326-9
+*ḥerg-	'umkommen'	IEW –
+*ḥmeyģʰ-	'harnen'	IEW 713
+*ḥneḫ-	'genießen'	IEW 754, 47
+*ḥneyd-	'schmähen'	IEW 760-1
+*?ḥpews-	'sich mehren, reich werden an'	IEW 848
+*ḥreģ-	'gerade richten, ausstrecken'	IEW 854-7
+*ḥreyH-	'wallen, wirbeln'	IEW 330-1
+*ḥrewH-	'brüllen'	IEW 867
+*ḥrewk-	'(aus)graben, (aus)rupfen'	IEW 869-70
+*ḥsleydʰ-	'ausgleiten, fehlgehen'	IEW 960-1
+*ḥwatḫ-	'verwunden'	IEW 1108
+*?ḥweyg-	'öffnen (?)'	IEW 73
+*yebʰ-	'eingehen, eindringen'	IEW 298
+*yeḫ-	'dahinziehen, fahren'	IEW 296
+*yeḫ-	'erbitten, erstreben'	IEW 501, 503
+*yeḥs-	'gürten'	IEW 513
+*yek-	'sprechen'	IEW 503-4
+*?yek(ᵂ)s-	'erscheinen'	IEW 502
+*?yem-	'ausstrecken, hinstrecken'	IEW 505
+*yes-	'sieden, schäumen'	IEW 506
+*yet-	'sich (fest) hinstellen'	IEW 506-7
+*yew-	'festhalten, an sich ziehen, verbinden'	IEW 507, 508
+*yew-	'(sich) fernhalten; weichen'	IEW 508, 511
+*yewģH-	'unruhig werden'	IEW 512
+*yewg-	'anschirren'	IEW 508-10
+*?yewt-	'wahrnehmen, erwachen'	IEW 346
+*ḱad-	'fallen'	IEW 516
+*ḱeHs-	'anweisen'	IEW 533
+*ḱeḫd-	'seelisch aufgewühlt sein'	IEW 516
+*ḱeḫk-	'springen'	IEW 522
+*ḱeḥ(y)-	'schärfen'	IEW 541-2
+*ḱey-	'liegen'	IEW 539-40
+*ḱey-	'fallen'	IEW –
+*ḱeyd-	'rufen'	IEW 538
+*?ḱeys-	'übrig lassen'	IEW –
+*ḱek(ᵂ)-	'etwas schaffen, bewältigen'	IEW 522
+*ḱel-	'verbergen'	IEW 553-4
+*ḱel-	'warm werden'	IEW 551-2
+*ḱelH-	'kalt werden, frieren'	IEW 551
+*ḱemḫ-	'müde werden; sich abmühen'	IEW 557
+*ḱen-	'steigen'	IEW –
+*?ḱend-	'Selbstvertrauen, Stärke entwickeln'	IEW 516-7
+*ḱenk-	'in der Schwebe sein, hängen (intr.)'	IEW 566
+*ḱeNs-	'verkünden; (öffentlich) schätzen'	IEW 566
+*ḱent-	'stechen'	IEW 567
+*ḱep-	'(ver)fluchen'	IEW –
+*ḱer(H)-	'scheißen'	IEW 947-8
+*ḱerḫ-	'brechen, zerbrechen (intr.)'	IEW 578
+*ḱerḫ-	'mischen'	IEW 582
+*ḱerḥ-	'sättigen, füttern'	IEW 577
+*ḱes-	'(ab)schneiden'	IEW 586
+*?ḱewbʰ-	'schön werden/sein'	IEW 594
+*?ḱewdʰ-	'rein werden'	IEW 595
+*?ḱewH-	'werfen, schieben'	IEW 954-5
+*ḱewk-	'aufflammen, erglühen'	IEW 597
+*ḱewk-	'rufen, schreien'	IEW 536
+*?ḱyeH-	'gefrieren'	IEW –
+*ḱley-	'sich anlehnen'	IEW 601-2
+*?ḱleys-	'hängenbleiben, haften'	IEW –
+*ḱlew-	'hören'	IEW 605-7
+*ḱlewH-	'reinigen'	IEW 607
+*ḱlews-	'(zu)hören'	IEW 606-7
+*?ḱnetḫ-	'stoßen, stechen'	IEW –
+*ḱreyH-	'sich auszeichnen, vortrefflich sein'	IEW 618
+*ḱremḫ-	'schlaff werden'	IEW 573
+*ḱretḫ-	'sich lockern'	IEW 620
+*?ḱsed-	'zerlegen, auftischen'	IEW –
+*?ḱweH-	'werfen'	IEW –
+*ḱweħ-	'anschwellen'	IEW 592-4
+*ḱweyt-	'hell aufleuchten'	IEW 628-9
+*ḱwenk-	'hoch- oder herunterbiegen'	IEW 629
+*ḱwes-	'schnaufen, schnauben, seufzen'	IEW 631-2
+*(ḱ)agʰ-	'(ein)fassen'	IEW 518
+*kamp-	'krümmen, biegen'	IEW 525
+*(ḱ)an-	'singen, klingen'	IEW 525-6
+*?keħw-	'wackeln'	IEW 595
+*keḫ-	'begehren'	IEW 515
+*k(ᵂ)eḫ-	'graben'	IEW 634 Anm.]
+*?k(ᵂ)eḫd-	'reißen, drücken'	IEW –
+*keḫp-	'fassen, schnappen'	IEW 527-8
+*keḫw-	'anzünden, verbrennen'	IEW 595
+*keḫw-	'schlagen, spalten'	IEW 535
+*(ḱ)eyḫ-	'sich in Bewegung setzen'	IEW 538
+*?keyt-	'hell sein, glänzen, leuchten'	IEW 916-7
+*?k(ᵂ)ek(ᵂ)-	'greifen nach, erreichen'	IEW 522
+*kel-	'antreiben'	IEW 548
+*kelH-	'aufragen, hochragen'	IEW 544
+*(ḱ)elħ-	'verlocken, betören, betrügen'	IEW 551
+*kelḫ-	'schlagen'	IEW 545-6
+*kem-	'pressen, drücken (?)'	IEW 555
+*?k(ᵂ)emp-	'zittern, beben'	IEW 525
+*ken-	'entspringen, beginnen'	IEW 563-4
+*?(ḱ)end-	'sich auszeichnen'	IEW 516-7
+*?k(ᵂ)enH-	'Gefallen finden, in Freude geraten'	IEW 515
+*kenħ-	'sich bemühen, sich anstrengen'	IEW 564
+*?k(ᵂ)erd-	'hören'	IEW 531
+*kerH-	'rühmend gedenken'	IEW 530-1
+*kerH-	'hängen'	IEW 573
+*kerH-	'ausstreuen, schütten'	IEW 933-5
+*k(ᵂ)erḱ-	'abmagern'	IEW 581
+*(ḱ)ers-	'laufen'	IEW 583
+*kers-	'(ab)schneiden'	IEW 945
+*kert-	'drehen, spinnen'	IEW 584
+*k(ᵂ)ert-	'binden'	IEW 584
+*kes-	'ordnen'	IEW 585
+*?k(ᵂ)et-	'entweichen'	IEW –
+*?(ḱ)ewbḫ-	'sich hinlegen'	IEW 590
+*kewbʰ-	'sich beugen, ducken'	IEW 590-1
+*kewdʰ-	'verbergen'	IEW 952
+*?k(ᵂ)ewk-	'sich biegen'	IEW 589
+*kewp-	'(innerlich) beben'	IEW 596
+*?k(ᵂ)ḫed-	'(zer)quetschen'	IEW 634 Anm.]
+*?k(ᵂ)ḫeģ-	'verzehren'	IEW –
+*?kḫeyd-	'schlagen'	IEW 917
+*?(ḱ)yeḫ-	'sieben'	IEW 1085
+*?Kyeḫp-	'verfaulen'	IEW –
+*kleħ-	'rufen'	IEW 548-50
+*k(ᵂ)leḫ-	'hinbreiten, hinlegen'	IEW 599
+*?(ḱ)leḫw-	'weinen'	IEW 599
+*?(ḱ)leḥdʰ-	'spinnen'	IEW 611-2
+*k(ᵂ)leyḱ-	'quälen, plagen'	IEW 602
+*?k(ᵂ)lenk(ᵂ)-	'die Knie krümmen'	IEW 603
+*klep-	'(heimlich) stehlen, verbergen'	IEW 604
+*klewb-	'stolpern, hüpfen'	IEW 630
+*?klewH-	'wohin geraten (?)'	IEW 605
+*kneḫ-	'schaben, reiben'	IEW 560
+*?kneybʰ-	'hängen lassen, sinken lassen'	IEW 608
+*kneyd-	'kratzen, stoßen (?)'	IEW 561-2
+*Kneygᵂʰ-	'neigen; sich neigen'	IEW 608
+*?knewH-	'kratzen'	IEW 562
+*kreħ(y)-	'sieben, trennen'	IEW 945-6
+*?kreḫ-	'aufhäufen, sammeln'	IEW 617
+*?KreyH-	'berühren'	IEW 618
+*?k(ᵂ)reyp-	'drehen, wenden'	IEW 937
+*kreḱ-	'schlagen'	IEW 618-9
+*?k(ᵂ)RemH-	'einen Schritt tun'	IEW –
+*?(ḱ)remH-	'verbrennen'	IEW 572
+*?k(ᵂ)Rend-	'schreien, wiehern'	IEW 549
+*?k(ᵂ)RepH-	'jammern'	IEW 569
+*?KrepH-	'krachen'	IEW 569
+*kret-	'schütteln, rütteln'	IEW 620, 621
+*krewH-	'aufhäufen, bedecken'	IEW 616
+*krews-	'stoßen'	IEW 622
+*ksen-	'Wolle krempeln'	IEW 585
+*ksew-	'schaben, schleifen'	IEW 586
+*?k(ᵂ)sewbʰ-	'ins Schwanken geraten'	IEW 625
+*k(ᵂ)sewd-	'zerstieben, in kleine Teile zerfallen'	IEW 625
+*ksnew-	'schärfen'	IEW 585
+*?k(ᵂ)sweybʰ-	'(sich) schwingen'	IEW 625, 1041
+*(ḱ)was-	'küssen'	IEW 626
+*kwatḫ-	'Blasen werfen, aufschäumen'	IEW 627-8
+*kweħp-	'sieden'	IEW 596
+*?(ḱ)weḫ-	'erwerben'	IEW 593
+*?kweyt-	'erglänzen'	IEW 629
+*kwelp-	'sich biegen, sich krümmen, sich wölben'	IEW 630
+*?kwep-	'hauchen'	IEW 596
+*kᵂeḫs-	'husten'	IEW 649
+*kᵂey-	'wahrnehmen, bemerken'	IEW 636-7
+*kᵂey-	'sammeln, schichten'	IEW 637-8
+*kᵂey-	'Buße entgegennehmen, strafen'	IEW 636-7
+*kᵂeys-	'auf etwas achten, wahrnehmen'	IEW 637
+*kᵂeyt-	'bemerken, erkennen'	IEW 637
+*kᵂeḱ-	'sehen, erblicken'	IEW 638-9
+*kᵂelħ-	'eine Drehung machen, sich umdrehen, sich wenden, sich umwenden, sich zuwenden'	IEW 639-40
+*kᵂels-	'Furchen ziehen, einfurchen'	IEW 639-40
+*kᵂem-	'(hinunter)schlucken, einsaugen'	IEW 640-1
+*kᵂendʰ-	'einen Eindruck empfangen, erleben, erleiden'	IEW 641
+*kᵂer-	'(ab)schneiden, schnitzen'	IEW 641-2
+*kᵂerpH-	'sich wenden'	IEW 631
+*kᵂyeħ-	'ausruhen'	IEW 638
+*kᵂyew-	'sich in Bewegung setzen'	IEW 539
+*kᵂreyḫ-	'eintauschen, durch Tausch erwerben'	IEW 648
+*?las-	'zügellos sein, gierig sein'	IEW 654
+*leģ-	'sammeln, auflesen'	IEW 658
+*?le(ģ)-	'tröpfeln'	IEW 657
+*legʰ-	'sich (hin)legen'	IEW 658-9
+*leħ-	'nachlassen, (zu)lassen'	IEW 666, 682-3
+*leħd-	'lassen'	IEW 666
+*leħģʰ-	'kriechen'	IEW 660
+*leḫ-	'bellen'	IEW 650-1
+*leḫ-	'gießen'	IEW 692
+*leḫ-	'sich verbergen'	IEW 651
+*?leḫdʰ-	'verborgen bleiben'	IEW 651
+*?leḫk-	'lärmen'	IEW 650
+*leḫp-	'aufleuchten'	IEW 652-3
+*leyd-	'(los)lassen'	IEW 666
+*leyģ-	'binden'	IEW 668
+*leyģʰ-	'lecken'	IEW 668
+*ley(ģ)-	'springen'	IEW 667-8
+*leyH-	'sich anschmiegen'	IEW 662-3
+*leyH-	'gießen'	IEW 664-5
+*leyḫ-	'aufhören, schwinden'	IEW 661-2
+*?leyk-	'feil sein, feilbieten'	IEW 669
+*leykᵂ-	'zurücklassen, sich entfernen von'	IEW 669-70
+*leyp-	'kleben bleiben'	IEW 670-1
+*leyp-	'begehren, verlangen'	IEW 671
+*leys-	'lernen, erfahren'	IEW 671
+*leyt-	'(weg)gehen'	IEW 672
+*leyt-	'berühren'	IEW 664
+*?lek-	'die Gliedmaßen bewegen (?)'	IEW 673
+*lembH-	'schlaff herabhängen'	IEW 656-7
+*lembʰ-	'ergreifen, fassen'	IEW 652
+*lemH-	'brechen'	IEW 674
+*lendʰ-	'sich senken, nach unten geraten'	IEW 675, 961
+*?lenk-	'biegen'	IEW 676-7
+*lep-	'abschälen'	IEW 678
+*les-	'sammeln, auflesen'	IEW 680
+*lew-	'beschmutzen'	IEW 681
+*lewbʰ-	'lieb sein, gefallen; betören, verwirren'	IEW 683-4
+*?lewd-	'sich ducken, sich beugen'	IEW 684
+*lewdʰ-	'hemmen, hindern'	IEW –
+*lewg-	'lösen, brechen'	IEW 686
+*lew(ģ)-	'biegen'	IEW 685-6
+*?lewgʰ-	'lügen'	IEW 686-7
+*lewH-	'abschneiden, lösen'	IEW 681-2
+*lewḥ-	'waschen'	IEW 692
+*lewk-	'hell werden'	IEW 687-9
+*?lewp-	'(ab)schälen'	IEW 690-1
+*?lewt-	'sehen'	IEW 688-9
+*mad-	'naß sein/werden'	IEW 694-5
+*maģ-	'streichen, schmieren'	IEW 696-7
+*magʰ-	'können, imstande sein'	IEW 695, 697
+*masd-	'fett sein/werden'	IEW 694
+*med-	'messen, für Einhaltung sorgen, sich kümmern'	IEW 705-6
+*med-	'voll werden, satt werden'	IEW 694-5, 706
+*meħ-	'(ab)messen'	IEW 703-4
+*meḫ-	'Zeichen geben'	IEW 693
+*meḥ-	'Mühe bereiten, zur Last fallen'	IEW 746
+*mey-	'befestigen'	IEW 709
+*mey-	'wechseln; tauschen, ändern'	IEW 710
+*meyg(ᵂ)ʰ-	'blinzeln, zucken'	IEW 712
+*meyH-	'gering werden, schwinden'	IEW 711
+*meyH-	'heranreifen, gedeihen'	IEW 711-2
+*meyḱ-	'mischen'	IEW 714
+*?mey(ḱ)ḫ-	'aufblitzen (?)'	IEW 712-3
+*?meys-	'die Augen aufschlagen'	IEW 714
+*meytḫ-	'wechseln, austauschen, entfernen'	IEW 715
+*meld-	'weich werden'	IEW 718
+*meldʰ-	'ablassen von, im Stich lassen'	IEW 719
+*meldʰ-	'feierlich sprechen, verkünden'	IEW 722
+*melḫ-	'zerreiben, mahlen'	IEW 716-7
+*?melḫw-	'zerreiben, mahlen'	IEW 717
+*melḥ-	'hervorkommen'	IEW 721-2
+*?melk(ᵂ)-	'still werden'	IEW 719
+*melkᵂ-	'behindern, schädigen, zerstören'	IEW 737
+*men-	'einen Gedanken fassen'	IEW 726-8
+*men-	'bleiben, warten'	IEW 729
+*men-	'emporragen'	IEW 726
+*menH-	'treten, stampfen (?)'	IEW 726
+*menk-	'drücken, kneten'	IEW 730-1
+*mentḫ-	'quirlen, umrühren'	IEW 732
+*mer-	'verschwinden, sterben'	IEW 735
+*merḫ-	'gewaltsam packen, zerdrücken'	IEW 735-6
+*mers-	'vergessen'	IEW 737-8
+*mes-	'den Arm ausstrecken'	IEW 693
+*mesg-	'eintauchen (intr.), versinken'	IEW 745-6
+*met-	'mähen'	IEW 703
+*met-	'abmessen'	IEW 703-4
+*metḫ-	'wegreißen'	IEW 732
+*mewd-	'in Freude geraten'	IEW 741-2
+*mewk-	'losbinden, abstreifen'	IEW 744
+*?mews-	'sich schließen'	IEW 752
+*mewsH-	'aufheben, wegnehmen'	IEW 743
+*?myeḱs-	'sich festsetzen (bei/an/in)'	IEW –
+*myewħ-	'(sich) bewegen'	IEW 743
+*mlewḫ-	'sprechen'	IEW –
+*mneḫ-	'denken an'	IEW 726-7
+*nebʰ-	'feucht werden, bewölkt werden'	IEW 315-6
+*nebʰ-	'bersten, zerspringen'	IEW 758
+*?ned-	'tönen, dröhnen'	IEW 759
+*negᵂ-	'dunkel werden, dämmern'	IEW 762-3
+*neḫ-	'in Angst geraten'	IEW 754
+*?neyd-	'strömen'	IEW 761
+*neygᵂ-	'waschen'	IEW 761
+*neyH-	'führen, leiten'	IEW 760
+*neyk-	'sich erheben'	IEW –
+*neḱ-	'verschwinden, verloren gehen'	IEW 762
+*nem-	'zuteilen'	IEW 763
+*nem-	'sich neigen'	IEW 764
+*?nerH-	'untertauchen'	IEW 766, 975-6
+*nes-	'davonkommen, unbeschadet heimkehren'	IEW 766-7
+*new-	'nicken, (den Kopf) neigen'	IEW 767
+*newd-	'nutzen'	IEW 768
+*newd-	'stoßen'	IEW 767
+*newH-	'schreien, brüllen'	IEW 767
+*ped-	'treten; fallen, sinken'	IEW 790-2
+*peH-	'sich bewegen'	IEW –
+*?peHs-	'sehen'	IEW –
+*peħy-	'tadeln, schmähen'	IEW 792-3
+*peḫ(y)-	'schützen, hüten, weiden (tr.)'	IEW 787, 839
+*peḫģ-	'fest werden'	IEW 787
+*peḫḱ-	'festmachen'	IEW 787
+*?peḫw-	'aufhören; beenden'	IEW 790
+*peḥ(y)-	'trinken'	IEW 839-40
+*?peḥlH-	'fallen'	IEW 851
+*peyg-	'malen'	IEW 794
+*pey(ģ)i-	'verdrießen'	IEW 795
+*peyH-	'anschwellen'	IEW 793
+*peyH-	'singen'	IEW –
+*peyḱ-	'heraushauen, herausschneiden'	IEW 794-5
+*peys-	'zerstampfen, (zer)stoßen'	IEW 796
+*peḱ-	'(Wolle oder Haare) rupfen, zausen'	IEW 797
+*peḱ-	'sich freuen'	IEW 796-7
+*pekᵂ-	'reif machen, gar machen'	IEW 798
+*pekᵂ-	'vertrauen'	IEW 798
+*?pel-	'aufflammen'	IEW 805
+*pelħ-	'in Schwung bringen'	IEW 801
+*pelḫ-	'sich nähern'	IEW 801-2
+*?pelk-	'einhüllen, verbergen'	IEW 803
+*pen-	'füttern, nähren'	IEW 807
+*pent-	'(einen Weg) finden'	IEW 808-9
+*per-	'hindurchkommen, durchqueren'	IEW 816-7
+*per-	'gleich machen, ausgleichen'	IEW 817
+*per-	'schlagen'	IEW 818-9
+*perd-	'(laut) furzen'	IEW 819
+*perḫ-	'verkaufen'	IEW 817
+*perḥ-	'verschaffen'	IEW 816-8
+*perḱ-	'graben, aufreißen'	IEW 821
+*perk-	'anfüllen, auffüllen'	IEW 820
+*?pert-	'in Streit geraten, kämpfen'	IEW 818
+*pesd-	'(leise) furzen, fisten'	IEW 829
+*petħ-	'fallen'	IEW 825-6
+*petḫ-	'ausbreiten'	IEW 824-5
+*petḫ-	'(auf)fliegen'	IEW 825-6
+*pew(ģ)-	'stechen'	IEW 828
+*pewH-	'reinigen, läutern'	IEW 827
+*pewH-	'faulen, stinken'	IEW 848-9
+*?pewk-	'hauchen, keuchen'	IEW 847
+*?pewt-	'aufblasen'	IEW 848
+*pyeḫ-	'schlagen'	IEW –
+*pleħ-	'sich füllen, voll werden'	IEW 798-800
+*pleħḱ-	'abreißen'	IEW 835
+*pleḫg-	'schlagen'	IEW 832-3
+*?pleḫk-	'schlagen (auch als Gestus)'	IEW 831-3
+*pleḥ-	'schwimmen, fließen'	IEW 836
+*?pleḥk-	'zufrieden machen, gefallen'	IEW 831
+*pleḱ-	'flechten'	IEW 834-5
+*pletḫ-	'breit werden, sich ausbreiten'	IEW 833
+*plew-	'schwimmen, schweben'	IEW 835-7
+*?plewd-	'schwimmen; fließen'	IEW 837
+*?plewk-	'schweben, schwimmen'	IEW 837
+*?pnew-	'hauchen, keuchen'	IEW 838-9
+*pnewH-	'zu Bewußtsein kommen'	IEW 838-9
+*preħ-	'anblasen, anfachen'	IEW 809
+*preyH-	'vertraut sein/werden, lieb sein/werden'	IEW 844
+*preḱ-	'fragen'	IEW 821-2
+*preK-	'sich fürchten'	IEW 820
+*prep-	'in die Augen fallen, erscheinen'	IEW 845
+*pres-	'spritzen'	IEW 823
+*?pret-	'erkennen'	IEW 845
+*prew-	'springen'	IEW 845-6
+*prews-	'sprühen, spritzen'	IEW 809-10, 846
+*?prewtḫ-	'schnauben, schäumen'	IEW 810
+*pster-	'niesen'	IEW 846-7
+*pteḫk-	'sich ducken'	IEW 825
+*r-*?rasd-	'kratzen'	IEW 854
+*rebʰ-	'sich (heftig) bewegen'	IEW 853
+*(ħ)rebʰ-	'überdecken, bedecken'	IEW 853
+*?Red-	'schürfen, kratzen'	IEW 854
+*?redʰ-	'erscheinen, entstehen'	IEW 1153, 1167
+*?reģ-	'fließen, tropfen (?)'	IEW 857
+*regʰ-	'sich aufrichten'	IEW 854, 863
+*reħ-	'geben, schenken'	IEW 860
+*reħ-	'zählen, rechnen'	IEW 59
+*reħdʰ-	'erfolgreich durchführen'	IEW 59-60
+*?reħp-	'kriechen'	IEW 865
+*?(ħ)reħs-	'sich stürzen'	IEW 336
+*?reħt-	'treffen, finden'	IEW 1160
+*?reḫ(y)-	'schreien, brüllen'	IEW 859
+*?Reybʰ-	'singen'	IEW 860
+*?(ħ)reyd-	'(sich) anlehnen'	IEW 860
+*reydʰ-	'sich schwankend bewegen'	IEW 861
+*reyģ-	'(sich) strecken, recken'	IEW 862
+*rey(ģ)-	'binden'	IEW 861-2
+*(ħ)reyḱ-	'reißen, brechen (intr.)'	IEW 858
+*reyk(ᵂ)ḫ-	'ritzen, kratzen (tr.)'	IEW 858
+*(ħ)reyp-	'(nieder)stürzen, (nieder)reißen'	IEW 858
+*?reys-	'Schaden nehmen'	IEW 859
+*(ħ)reḱs-	'schädigen'	IEW 864
+*rek-	'ordnen, festlegen, bestimmen'	IEW 863
+*?renk-	'auflesen, sammeln'	IEW 1155
+*(ħ)rep-	'(an sich) reißen, rupfen'	IEW 865
+*resg-	'flechten'	IEW 874
+*ret-	'laufen'	IEW 866
+*rewdH-	'schreien, weinen'	IEW 867
+*(ħ)rewdʰ-	'rot machen'	IEW 872-3
+*rewdʰ-	'roden'	IEW 869
+*(ħ)rewg-	'rülpsen, erbrechen'	IEW 871
+*rewH-	'aufreißen'	IEW 868
+*rewħ-	'öffnen'	IEW 874
+*rewp-	'brechen, (zer)reißen (intr.)'	IEW 870
+*rews-	'wühlen'	IEW 870-1
+*?(s)bʰeng-	'leuchten, glänzen'	IEW 989-90
+*(s)dʰerbʰ-	'fest/starr werden'	IEW 257, 1024-5
+*sed-	'sich setzen'	IEW 884-7
+*seģʰ-	'überwältigen, in den Griff bekommen'	IEW 888-9
+*seg-	'heften, anhängen'	IEW 887-8
+*se(ģ)-	'salben'	IEW –
+*seHdʰ-	'zum Ziel kommen, gelingen'	IEW 892
+*seħ-	'eindrücken, einsetzen, säen'	IEW 889-90
+*seħ(y)-	'loslassen'	IEW 889-91
+*seħ(y)-	'sieben'	IEW 889
+*?seħḱ-	'da sein, angekommen sein'	IEW 893
+*seħp-	'(durch Schmecken) wahrnehmen'	IEW 880
+*seḫ(ģ)-	'einer Fährte nachgehen'	IEW 876-7
+*seḫ(y)-	'satt werden'	IEW 876
+*seḫ(y)-	'toben, wüten'	IEW 877
+*seyb-	'fließen lassen'	IEW 894
+*?seydʰ-	'wegtreiben'	IEW 892
+*seyk-	'erreichen'	IEW 893
+*seykᵂ-	'ausgießen'	IEW 893-4
+*sek-	'versiegen, austrocknen (intr.)'	IEW 894-5
+*sekH-	'abtrennen, schneiden, unterscheiden'	IEW 895-6
+*sekᵂ-	'sich anschließen'	IEW 896-7
+*sekᵂ-	'sagen'	IEW 897-8
+*sel-	'sich losschnellen, springen'	IEW 899
+*sel-	'wohnen, verweilen'	IEW 898
+*sel-	'schleichen'	IEW 900
+*selģ-	'loslassen, entsenden'	IEW 900-1
+*selħ-	'nehmen'	IEW 899
+*selḫ-	'gnädig werden'	IEW 900
+*selk-	'ziehen'	IEW 901
+*semH-	'schöpfen'	IEW 901-2
+*sengᵂ-	'herunterfallen, untergehen, sinken'	IEW 906
+*sengᵂʰ-	'singen, verkünden'	IEW 906-7
+*senḫ-	'erlangen, erwischen'	IEW 906
+*sent-	'gehen, wahrnehmen (?)'	IEW 908
+*sep-	'(richtig) behandeln, (in Ehre) halten'	IEW 909
+*ser-	'aufpassen auf, beschützen'	IEW 910
+*ser-	'aneinander reihen, verknüpfen'	IEW 911
+*ser-	'nehmen, ergreifen'	IEW 909-10
+*serḥ-	'(in feindlicher Absicht) losgehen auf'	IEW 909
+*ser(ḱ)-	'instand setzen, wieder gutmachen'	IEW 912
+*serp-	'kriechen, schleichen'	IEW 912
+*ses-	'ruhen, schlafen'	IEW –
+*?sesT-	'wachsen, gedeihen'	IEW 880
+*?sew-	'auspressen'	IEW 912
+*?sewH-	'gebären'	IEW 913-4
+*sewħ-	'antreiben, in Bewegung halten'	IEW 914
+*?sewḥ-	'voll sein/werden'	IEW –
+*sewḱ-	'saugen'	IEW 912-3
+*?sewk-	'drehen, winden'	IEW 914
+*sewp-	'werfen'	IEW 1049
+*(s)gᵂesḫ-	'erlöschen'	IEW 479-80
+*(s)gᵂʰḫel-	'straucheln, fehltreten'	IEW 490,] 929, 985
+*sḫey-	'fesseln, binden'	IEW 891-2
+*sḫew-	'schütten, regnen'	IEW 912
+*syewH-	'nähen'	IEW 915-6
+*?sḱed-	'bedecken'	IEW 919
+*sḱeH(y)-	'schimmern, scheinen'	IEW 917-8
+*?sḱend-	'(er)scheinen'	IEW –
+*?sḱerd-	'auswerfen'	IEW 947-8
+*sḱʰeḫ(y)-	'aufschneiden, schinden'	IEW 919
+*sḱʰeyd-	'spalten, abtrennen, zerreißen'	IEW 920-1
+*skabʰ-	'kratzen, schaben'	IEW 931-2
+*?skebʰH-	'stützen'	IEW 916
+*(s)kedḫ-	'zersplittern, zerstreuen'	IEW 918-9
+*?skeHt-	'hervorspringen'	IEW 950
+*s(ḱ)eħtʰ-	'schädigen'	IEW 950
+*skek-	'sich schnell bewegen, springen'	IEW 922-3
+*(s)kel-	'schuldig werden'	IEW 927
+*(s)kel-	'spalten'	IEW 923-6
+*skelH-	'aufschlitzen, spalten'	IEW 923-6
+*(s)kelħ-	'austrocknen, verdorren'	IEW 927
+*skend-	'(los)springen, davonspringen'	IEW –
+*(s)kend-	'erglänzen'	IEW 526
+*(s)ken(ģ)-	'hinken'	IEW 930
+*(s)kep-	'hacken, hauen'	IEW 931-2
+*(s)kep-	'bedecken'	IEW 930
+*(s)(ḱ)er-	'springen, sich schwingen'	IEW 933-5
+*(s)ker-	'scheren, kratzen, abschneiden'	IEW 938-40
+*(s)kerb-	'sich krümmen, schrumpfen'	IEW 948-9
+*(s)kerbʰ-	'scharf sein'	IEW 943-4
+*?skerdʰ-	'schneiden, stechen (?)'	IEW 940-1
+*(s)kerH-	'trennen, teilen'	IEW 938-40
+*(s)kerp-	'abschneiden, abrupfen'	IEW 944-5
+*(s)kers-	'kratzen, (Wolle) krempeln'	IEW 532-3
+*(s)kert-	'(zer)schneiden'	IEW 941-2
+*?skewbʰ-	'stoßen, schieben'	IEW 955
+*(s)kewd-	'(vor)antreiben'	IEW 955-6
+*(s)kewħ-	'wahrnehmen, schauen'	IEW 587-8
+*skewḫ-	'stochern, stoßen'	IEW 954
+*?skewt-	'kratzen, schaben'	IEW 954
+*(s)kreb-	'schaben, kratzen'	IEW 943-4
+*?(s)k(ᵂ)rey-	'einen Kreis beschreiben'	IEW 936
+*?s(ḱ)reybʰ-	'kratzen, ritzen'	IEW 946-7
+*?skreyt-	'im Kreis gehen (?)'	IEW 937
+*?(s)krengᵂ-	'sich krümmen, schrumpfen'	IEW 936
+*(s)kweħt-	'durchschütteln, aufrütteln'	IEW 632, 957-8
+*?slak-	'schlagen'	IEW 959
+*sle(ģ)-	'erschlaffen'	IEW 959-60
+*?sleħb-	'schlaff sein'	IEW 656
+*sleħ(ģ)-	'ans Ende kommen'	IEW 959
+*sleḫgᵂ-	'nehmen, ergreifen'	IEW 958
+*?sleyb-	'schleifen, gleiten'	IEW 663
+*sleyģ-	'schmieren, glatt machen'	IEW 663-4
+*slenkᵂ-	'gleiten'	IEW 961
+*slewbʰ-	'gleiten, schlüpfen'	IEW 963-4
+*(s)lewg-	'schlucken'	IEW 964
+*slewk-	'schlucken'	IEW 964
+*?smeħ-	'streichen, reiben'	IEW 966
+*smey-	'lachen, lächeln'	IEW 967
+*?smeyd-	'schmieren'	IEW 966
+*(s)mer-	'denken an, sich erinnern'	IEW 969
+*smer-	'Anteil bekommen'	IEW 970
+*smerd-	'(übel) riechen'	IEW 970
+*?smewk-	'gleiten'	IEW 744-5
+*?snedʰ-	'schneiden'	IEW 972-3
+*sneħ-	'spinnen'	IEW 973
+*(s)neḫ-	'baden, schwimmen'	IEW 971-2
+*sneygᵂʰ-	'kleben bleiben'	IEW 974
+*?sneyt-	'schneiden'	IEW 974
+*snerk-	'zusammenziehen, schlingen'	IEW 976-7
+*snew-	'(Flüssigkeit) hervorquellen lassen, tropfen'	IEW 972
+*snewbʰ-	'heiraten (von der Frau)'	IEW 977-8
+*snewH-	'drehen, winden'	IEW 977
+*(s)peḫ-	'(heraus)ziehen'	IEW 982
+*speḱ-	'schauen, ansehen, spähen'	IEW 984
+*(s)pelH-	'öffentlich sprechen'	IEW 985
+*(s)pelH-	'abspalten, trennen'	IEW 985-6
+*?(s)pelt-	'spalten'	IEW 986
+*spend-	'libieren'	IEW 989
+*(s)penħ-	'ziehen, spannen'	IEW 988
+*(s)per-	'fliegen'	IEW 817, 850
+*sper-	'ausstreuen'	IEW 933-4
+*sperdʰ-	'weglaufen'	IEW 995-6
+*sperģʰ-	'sich beeilen'	IEW 998
+*spewd-	'sich beeilen'	IEW 998-9
+*?splend-	'glänzen, hell sein/werden'	IEW 987
+*?spreg-	'prasseln, knacken'	IEW 996-7
+*(s)prend-	'spannen (?)'	IEW 994
+*(s)prend-	'aufspringen'	IEW 996
+*(s)prengʰ-	'springen'	IEW 998
+*sptyewH-	'spucken, speien'	IEW 999-1000
+*spʰeħ-	'wunschgemäß geraten, gelingen'	IEW 983
+*?spʰeyg-	'zuschnüren'	IEW 984
+*spʰerH-	'(mit dem Fuß) stoßen'	IEW 992-3
+*spʰerḫg-	'zischen, prasseln'	IEW 996-7
+*srebʰ-	'schlürfen'	IEW 1001
+*(s)re(ģ)-	'(sich) färben'	IEW 854
+*?sreyH(ģ)-	'frieren, schaudern'	IEW 1004
+*srew-	'fließen, strömen'	IEW 1003
+*stebʰ-	'erstarren'	IEW 1012-3
+*(s)teg-	'decken, bedecken'	IEW 1013-4
+*?stegʰ-	'stechen'	IEW 1014-5
+*?(s)tegᵂʰ-	'bekränzen, umkränzen'	IEW –
+*steḫ-	'wohin treten, sich hinstellen'	IEW 1004-8
+*?steḫ(ģ)-	'träufeln; tropfen, tröpfeln'	IEW 1010
+*?steyb-	'steif/fest machen'	IEW 1015
+*(s)teyg-	'stechen, spitz sein'	IEW 1016-7
+*steygʰ-	'steigen, schreiten'	IEW 1017-8
+*?steyp-	'steif machen'	IEW 1015
+*stel-	'hinstellen, bereit machen'	IEW 1018-9
+*?stel(ģ)-	'glattstreichen'	IEW –
+*?stelḫ(ḱ)-	'träufeln'	IEW 1018
+*stembʰH-	'sich stützen, sich stemmen'	IEW 1012-3
+*sten-	'stöhnen'	IEW 1021
+*stengᵂ-	'stoßen'	IEW 1033
+*(s)tenḫ-	'donnern'	IEW 1021
+*ster-	'niederstrecken'	IEW 1022, 1029-30
+*(s)terģʰ-	'zerschlagen (?)'	IEW 1062
+*sterg-	'sich sorgen um'	IEW 1032
+*?sterħ-	'entbehren, beraubt sein'	IEW 1028
+*sterḥ-	'hinbreiten, ausbreiten'	IEW 1029-30
+*?(s)terḱ-	'beschmutzen'	IEW 1031-2
+*stew-	'bekannt sein; preisen'	IEW 1035
+*(s)tewd-	'stoßen'	IEW 1033-4
+*stewd-	'kalt werden'	IEW 1035
+*(s)tewg-	'in heftige Bewegung geraten'	IEW 1032-3
+*(s)tewp-	'stoßen, schlagen'	IEW 1034
+*?styeH-	'steif werden'	IEW 1010-1
+*?strebʰ-	'drehen, wenden'	IEW 1025
+*streyg-	'streichen'	IEW 1028
+*streyg-	'eindringen, stecken bleiben'	IEW 1036
+*strengʰ-	'zusammendrehen'	IEW 1036-7
+*(s)trep-	'lärmen'	IEW 1037
+*strew-	'streuen'	IEW 1030-1
+*strewg-	'streichen, abwischen'	IEW 1029
+*?sweħ(y)-	'schwanken, sich schwingen'	IEW 1041
+*sweḫd-	'schmackhaft werden'	IEW 1039-40
+*sweyd-	'in Schweiß ausbrechen'	IEW 1043
+*sweyd-	'glänzen'	IEW 1042
+*sweyd-	'werfen'	IEW 1042
+*?sweygᵂ-	'ausweichen; im Stich lassen'	IEW 1042
+*?sweyH-	'schwinden'	IEW 1052
+*swel-	'schwelen, brennen'	IEW 1045
+*swel-	'(ver)schlucken'	IEW 1045
+*?swelH-	'anschwellen'	IEW –
+*?sweld-	'verhungern, sterben'	IEW 1045
+*(s)wendʰ-	'verdorren, schwinden'	IEW 1047
+*?sweng-	'umarmen'	IEW 1047
+*?swengᵂʰ-	'schwingen'	IEW 1047
+*swenḫ-	'tönen, klingen'	IEW 1046-7
+*swep-	'einschlafen'	IEW 1048-9
+*swer-	'tönen'	IEW 1049-50
+*swer-	'schmerzen, schwären'	IEW 1050
+*?swerbʰ-	'abwischen, abreiben'	IEW 1050-1
+*?swergʰ-	'krank sein; sich sorgen'	IEW 1051
+*?tag-	'ordnen, anordnen, aufstellen'	IEW 1055
+*?teg-	'schwören'	IEW 1055
+*teḫ-	'stehlen'	IEW 1010
+*teḫ-	'tauen, schmelzen'	IEW 1053
+*teḫ(ģ)-	'berühren, fassen'	IEW 1054
+*?teḫ(ḱ)-	'schmelzen (intr.)'	IEW 1053
+*teyħ-	'heiß werden'	IEW 1053-4
+*teḱ-	'zeugen, gebären'	IEW 1057
+*tek-	'die Hand ausstrecken, empfangen, erlangen'	IEW 1057-8
+*tek-	'weben, flechten'	IEW 1058
+*tekᵂ-	'laufen, fließen'	IEW 1059-60
+*telH-	'still werden'	IEW 1061-2
+*telḫ-	'aufheben, auf sich nehmen'	IEW 1060-1
+*?telk-	'schlagen'	IEW 1062
+*telp-	'Raum schaffen'	IEW 1062
+*tem-	'erreichen'	IEW –
+*temH-	'ermatten, ohnmächtig werden'	IEW 1063
+*temħ-	'schneiden'	IEW 1062-3
+*temk-	'fest werden, gerinnen'	IEW 1068
+*temp-	'spannen, dehnen'	IEW 1064-5
+*ten-	'sich spannen, sich dehnen'	IEW 1065-6
+*tend-	'ermatten'	IEW 1065-6
+*tend-	'schneiden, spalten'	IEW 1063
+*ten(ģ)-	'benetzen, anfeuchten'	IEW 1067
+*ten(ģ)-	'dünken, scheinen (unpers.)'	IEW 1088
+*tens-	'ziehen'	IEW 1068-9
+*tep-	'warm sein, heiß sein'	IEW 1069-70
+*tep-	'schmieren; kleben bleiben'	IEW –
+*ter-	'sprechen'	IEW 1088-9
+*terd-	'durchbohren, spalten'	IEW 1076
+*terg(ᵂ)-	'reißen, ziehen'	IEW 1073
+*ter(ģ)-	'abwischen, entfernen'	IEW 1073
+*tergᵂ-	'bedrohen, schrecken'	IEW 1076-7
+*terħ-	'bohren, reiben'	IEW 1071-2
+*terḫ-	'durchkommen, überqueren'	IEW 1074-5
+*terḥ-	'verwunden'	IEW 1071
+*TerKḫ-	'lassen'	IEW 258
+*terkᵂ-	'sich drehen'	IEW 1077
+*terp-	'sich sättigen'	IEW 1077-8
+*terp-	'erstarren'	IEW 1024
+*ters-	'vertrocknen; durstig werden'	IEW 1078-9
+*tetḱ-	'erzeugen, herstellen'	IEW 1058-9
+*?tewH-	'(freundlich) beachten, betrachten; schützen'	IEW 1079-80
+*tewḫ-	'schwellen, stark werden'	IEW 1080-1
+*tewk-	'stoßen, schlagen'	IEW 1032
+*tewk-	'stark/fett werden, schwellen'	IEW 1081
+*?tewp-	'sich niederkauern, sich klein machen'	IEW 1085
+*tews-	'leer sein/werden'	IEW 1085
+*tḫews-	'still sein, schweigen'	IEW 1056-7
+*tyegᵂ-	'sich zurückziehen'	IEW 1086
+*tḱey-	'Landbau treiben, siedeln, wohnen'	IEW 626
+*t(ḱ)en-	'einen Schlag versetzen, verletzen'	IEW –
+*?treH-	'schützen'	IEW 1075
+*?treħ-	'drehen'	IEW 1072
+*treħw-	'aufziehen, nähren'	IEW 1095
+*treḥ(ģ)-	'zernagen'	IEW 1073
+*?treygᵂ-	'reiben'	IEW 1071
+*?treyK-	'verfehlen'	IEW 1071
+*trem-	'zittern (vor Angst)'	IEW 1092-3
+*trenk-	'drängen'	IEW 1093-4
+*trep-	'treten, stampfen'	IEW 1094
+*trep-	'wenden'	IEW 1094
+*tres-	'(vor Schreck) zittern'	IEW 1095
+*?tresḱ-	'ausquetschen, dreschen'	IEW 1072
+*?trewg-	'trocken werden'	IEW –
+*trewH-	'aufreiben, verbrauchen'	IEW 1072-3
+*?trewp-	'zerbröckeln (intr.)'	IEW 1074
+*?twey-	'erschrecken, in Furcht setzen'	IEW 1099
+*tweys-	'erregen, erschüttern'	IEW 1099
+*twek-	'sichtbar sein'	IEW –
+*twem-	'anschwellen'	IEW 1082
+*twenk-	'bedrängen, einzwängen'	IEW 1099-1100
+*twer-	'aufrühren, erregen, antreiben'	IEW 1100
+*twerH-	'fassen'	IEW 1101
+*twerḱ-	'schnitzen, zurechtschneiden'	IEW 1102
+*tʰengʰ-	'ziehen'	IEW 1067
+*webʰ-	'umwickeln, weben'	IEW 1114
+*wed-	'quellen'	IEW 346
+*wedʰ-	'führen'	IEW 1115-6, 1116-7
+*wedʰħ-	'stoßen'	IEW 1115
+*weģ-	'munter/lebhaft/kräftig werden'	IEW 1117-8
+*weģʰ-	'schweben; fahren'	IEW 1118-20
+*?weg-	'weben, knüpfen'	IEW 1117
+*wegᵂ-	'feucht machen'	IEW 1118
+*?weHģʰ-	'anerkennen, respektieren'	IEW –
+*weḫ-	'sich wenden'	IEW –
+*weḫdʰ-	'durchschreiten'	IEW 1109
+*weḫģ-	'bedecken'	IEW 1110
+*weḫ(ģ)-	'brechen, zu Bruch gehen'	IEW 1110
+*?weḫ(ģ)ʰ-	'schreien'	IEW 1110
+*?wey(H)-	'verwelken'	IEW 1123
+*weyd-	'erblicken'	IEW 1125-7
+*weyg-	'in Bewegung geraten, sich entfernen'	IEW 1130-1
+*weyħ-	'sein Augenmerk richten auf, trachten nach'	IEW 1123-4
+*weyḱ-	'eingehen in, eintreten'	IEW 1129, 1131
+*weyk-	'aussieben'	IEW 1128
+*weyk-	'überwinden, besiegen'	IEW 1128-9
+*weyp-	'in schwingende/zitternde Bewegung geraten'	IEW 1131-2
+*weys-	'sprießen, gedeihen'	IEW 1133
+*weys-	'fließen'	IEW 1134
+*weys-	'ausführen, zustande bringen'	IEW –
+*weḱ-	'wünschen'	IEW 1135
+*wekᵂ-	'sagen'	IEW 1135-6
+*wel-	'einschließen, verhüllen'	IEW 1138
+*wel-	'drehen, rollen'	IEW 1140-2
+*wel-	'sehen, wahrnehmen'	IEW 1136-7
+*welg-	'sich rollend (?) bewegen'	IEW 1144
+*welg-	'feucht werden'	IEW 1145
+*welH-	'stark sein, Gewalt haben'	IEW 1111-2
+*welH-	'(sich) wälzen, wallen'	IEW 1140-3
+*welħ-	'(aus)wählen'	IEW 1137
+*welħbʰ-	'(durch Rätsel) verwirren'	IEW –
+*welḥ-	'schlagen'	IEW 1144-5
+*?welk-	'feucht sein/werden'	IEW 1145
+*welp-	'Hoffnung schöpfen'	IEW 1138
+*wemħ-	'erbrechen'	IEW 1146
+*wen-	'überwältigen, gewinnen'	IEW 1146-7
+*?wend-	'loben, rühmen'	IEW 76
+*wendʰ-	'(um)winden'	IEW 1148
+*?weng-	'(sich) krümmen'	IEW 1148-9
+*wenH-	'liebgewinnen'	IEW 1146-7
+*?wenħ-	'setzen, stellen, legen'	IEW –
+*?wenk-	'sich krümmen, sich biegen'	IEW 1134-5
+*?wenT-	'beschlafen'	IEW –
+*?wep-	'streuen'	IEW 1149
+*wer-	'aufhalten, (ab)wehren'	IEW 1160-2
+*wer-	'laufen'	IEW –
+*wer-	'beobachten, wahrnehmen'	IEW 1164
+*werģ-	'einschließen, absperren'	IEW 1168
+*werģ-	'wirken, machen'	IEW 1168-9
+*werģ-	'scheren'	IEW 1163
+*?weRģʰ-	'reißen'	IEW 1163
+*werģʰ-	'(zu)binden'	IEW 1154-5
+*wergᵂ-	'werfen'	IEW 1153
+*werH-	'heiß sein'	IEW 1166
+*werħ-	'sagen'	IEW 1162-3
+*werp-	'hindrehen, herdrehen (?)'	IEW 1156
+*wers-	'abwischen, fegen'	IEW 1169-70
+*wers-	'sich erheben, hochkommen'	IEW 1150-1
+*wert-	'sich umdrehen'	IEW 1156-8
+*wes-	'(Kleidung) anhaben, bekleidet sein mit'	IEW 1172-3
+*wes-	'(ver)kaufen'	IEW 1173
+*wes-	'grasen, weiden, verzehren, essen'	IEW 1171
+*wet-	'vertraut sein mit'	IEW 346
+*wetḫ-	'sagen'	IEW –
+*wyeħ-	'umwickeln, umhüllen'	IEW 1120-2
+*wyekᵂ-	'umwinden, umspannen'	IEW 1130
+*?wyetḫ-	'wanken'	IEW 1178
+*wleykᵂ-	'befeuchten'	IEW –
+*?wred-	'weich werden/machen'	IEW 1163
+*wreg-	'einer Spur folgen'	IEW 1181
+*wreħ-	'finden'	IEW 1160
+*wreħģ-	'brechen, reißen (intr.)'	IEW 1181-2
+*?wreḫ-	'wegnehmen'	IEW –
+*?wReyH-	'zusammendrücken'	IEW –
+*wreyḱ-	'drehen; einhüllen'	IEW 1158-9
+*?wreyt-	'drehen, winden'	IEW 1159-60
+*wremb-	'(sich) drehen'	IEW 1153
+*wreng-	'verdrehen, (ver)biegen'	IEW 1154
+*?wrengʰ-	'winden, zusammendrehen'	IEW 1155
+*?wrep-	'sich neigen'	IEW 1156
+*?wResk(ᵂ)-	'abhacken'	IEW 1163
