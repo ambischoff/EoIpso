@@ -273,6 +273,20 @@ public class ExecuteCardGui implements CardGui{
 	    	textFieldThreshold.setColumns(10);
 	    	textFieldThreshold.setVisible(true);
 	    	parameters.add(textFieldThreshold);
+	    	
+	    	if (myMethod.getMethod() == Method.phonotactic) {
+				langNumb = new JLabel("Number Languages");
+				langNumb.setForeground(Color.WHITE);
+				langNumb.setFont(new Font("Myriad Pro Light", Font.BOLD, 16));
+				langNumb.setVisible(false);
+				parameters.add(langNumb);
+		    	textFieldLangSubTypo = new JTextField("5") { private static final long serialVersionUID = -6190446027580699096L; @Override public void setBorder(Border border) {}};
+		    	textFieldLangSubTypo.setForeground(Color.GRAY);
+		    	textFieldLangSubTypo.setFont(new Font("Myriad Pro Light", Font.BOLD, 16));
+		    	textFieldLangSubTypo.setColumns(10);
+		    	textFieldLangSubTypo.setVisible(false);
+		    	parameters.add(textFieldLangSubTypo);
+	    	}
     	} else {
     		parameters.add(new JLabel());
     		parameters.add(new JLabel());
@@ -378,15 +392,6 @@ public class ExecuteCardGui implements CardGui{
 			parameters.add(new JLabel());
 			parameters.add(new JLabel());
 			
-			langNumb = new JLabel("Number Languages");
-			langNumb.setForeground(Color.WHITE);
-			langNumb.setFont(new Font("Myriad Pro Light", Font.BOLD, 16));
-			parameters.add(langNumb);
-	    	textFieldLangSubTypo = new JTextField("5") { private static final long serialVersionUID = -6190446027580699096L; @Override public void setBorder(Border border) {}};
-	    	textFieldLangSubTypo.setForeground(Color.GRAY);
-	    	textFieldLangSubTypo.setFont(new Font("Myriad Pro Light", Font.BOLD, 16));
-	    	textFieldLangSubTypo.setColumns(10);
-	    	parameters.add(textFieldLangSubTypo);
 		} else {
 			parameters.add(new JLabel());
 			parameters.add(new JLabel());
